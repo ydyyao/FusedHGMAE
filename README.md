@@ -1,1 +1,1 @@
-# FusedMAE
+# FusedHGMAE
